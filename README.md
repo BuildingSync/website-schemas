@@ -1,1 +1,1 @@
-# website-schemas
+# BuildingSync Website Schemas
